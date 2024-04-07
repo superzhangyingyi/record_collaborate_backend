@@ -1,0 +1,76 @@
+[
+    {
+        "c1Name":"餐饮",
+        "c1IcoUnicode":"&#xe714;",
+        "c2Arr":[
+            {"c2Name":"早饭", "c2IcoUnicode":"&#xe6e9;"},
+            {"c2Name":"午饭", "c2IcoUnicode":"&#xe6e8;"},
+            {"c2Name":"热狗", "c2IcoUnicode":"&#xe600;"},
+            {"c2Name":"蛋糕", "c2IcoUnicode":"&#xe601;"},
+            {"c2Name":"汉堡", "c2IcoUnicode":"&#xe644;"},
+            {"c2Name":"糖果", "c2IcoUnicode":"&#xebcd;"},
+            {"c2Name":"饮料", "c2IcoUnicode":"&#xebd3;"},
+            {"c2Name":"苹果", "c2IcoUnicode":"&#xebed;"},
+            {"c2Name":"面条", "c2IcoUnicode":"&#xe90d;"}
+        ]
+    },
+    {
+        "c1Name":"消费",
+        "c1IcoUnicode":"&#xe64f;",
+        "c2Arr":[
+            {"c2Name":"健身", "c2IcoUnicode":"&#xe65d;"},
+            {"c2Name":"干洗", "c2IcoUnicode":"&#xe67d;"},
+            {"c2Name":"亲子", "c2IcoUnicode":"&#xe68c;"},
+            {"c2Name":"人文", "c2IcoUnicode":"&#xe68d;"},
+            {"c2Name":"维修", "c2IcoUnicode":"&#xe641;"},
+            {"c2Name":"清洁", "c2IcoUnicode":"&#xe617;"},
+            {"c2Name":"宠物", "c2IcoUnicode":"&#xe64b;"},
+            {"c2Name":"送礼", "c2IcoUnicode":"&#xe6e4;"}
+        ]
+    },
+    {
+        "c1Name":"购物",
+        "c1IcoUnicode":"&#xe70f;",
+        "c2Arr":[
+            {"c2Name":"奢侈品", "c2IcoUnicode":"&#xe6de;"},
+            {"c2Name":"口红", "c2IcoUnicode":"&#xe63b;"},
+            {"c2Name":"鞋子", "c2IcoUnicode":"&#xe648;"},
+            {"c2Name":"衣服", "c2IcoUnicode":"&#xe64c;"},
+            {"c2Name":"美妆", "c2IcoUnicode":"&#xe603;"},
+            {"c2Name":"电子产品", "c2IcoUnicode":"&#xe692;"}
+        ]
+    },
+    {
+        "c1Name":"生活",
+        "c1IcoUnicode":"&#xe646;",
+        "c2Arr":[
+            {"c2Name":"电费", "c2IcoUnicode":"&#xe65f;"},
+            {"c2Name":"网费", "c2IcoUnicode":"&#xe66c;"},
+            {"c2Name":"话费", "c2IcoUnicode":"&#xe634;"}
+        ]
+    },
+    {
+        "c1Name":"旅行",
+        "c1IcoUnicode":"&#xe651;",
+        "c2Arr":[
+            {"c2Name":"景点", "c2IcoUnicode":"&#xe645;"},
+            {"c2Name":"住宿", "c2IcoUnicode":"&#xe646;"},
+            {"c2Name":"停车", "c2IcoUnicode":"&#xe66b;"},
+            {"c2Name":"户外", "c2IcoUnicode":"&#xe687;"},
+            {"c2Name":"计程车", "c2IcoUnicode":"&#xe688;"},
+            {"c2Name":"巴士", "c2IcoUnicode":"&#xe70d;"},
+            {"c2Name":"飞机", "c2IcoUnicode":"&#xe70e;"},
+            {"c2Name":"火车", "c2IcoUnicode":"&#xe710;"},
+            {"c2Name":"轮船", "c2IcoUnicode":"&#xe712;"}
+        ]
+    },
+    {
+        "c1Name":"收入",
+        "c1IcoUnicode":"&#xe64d;",
+        "c2Arr":[
+            {"c2Name":"工资", "c2IcoUnicode":"&#xe65b;"},
+            {"c2Name":"奖金", "c2IcoUnicode":"&#xe6d1;"},
+            {"c2Name":"积蓄", "c2IcoUnicode":"&#xe6dd;"}
+        ]
+    }
+]
